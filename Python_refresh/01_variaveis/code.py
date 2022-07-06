@@ -29,3 +29,22 @@ b = 17
 
 print(a)
 print(b)
+
+'''
+a = 2 + 3  # Soma
+b = 2 - 3  # Subtração
+c = 2 * 3  # Multiplicação
+d = 2 / 3  # Divisão
+e = 2 // 3 # Divisão inteira
+f = 2 ** 3 # Potência
+g = 2 % 3  # Resto de divisão
+
+
+Maior que: >
+Maior ou igual: >=
+Menor que: <
+Menor ou igual: <=
+Igual: ==
+Diferente: !=
+
+'''
